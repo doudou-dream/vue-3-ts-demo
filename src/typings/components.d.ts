@@ -22,6 +22,8 @@ declare module '@vue/runtime-core' {
     ElMenuItemGroup: typeof import('element-plus/es')['ElMenuItemGroup']
     ElSubMenu: typeof import('element-plus/es')['ElSubMenu']
     IEpFold: typeof import('~icons/ep/fold')['default']
+    IEpFullScreen: typeof import('~icons/ep/full-screen')['default']
+    IEpLocation: typeof import('~icons/ep/location')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
   }
